@@ -85,19 +85,19 @@ childNode.position = new paper.Point(3, 4);
 
 parentNode.translate(new paper.Point(2, 5));
 
-// child node position: add your answer here
+// child node position: 5, 9
 
 parentNode.rotate(90);  // rotation is clockwise, in degrees
 
-// child node position: add your answer here
+// child node position: 9, 5
 
 parentNode.scale(10);
 
-// child node position: add your answer here
+// child node position: 90, 50
 
 parentNode.translate(new paper.Point(-2, -5));
 
-// child node position: add your answer here
+// child node position: 88, 45
 ```
 
 
